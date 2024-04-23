@@ -1,1 +1,10 @@
 /*スタイルを指定する*/
+body {
+    background-color: black;
+}
+h1 {
+    color: #0f0;
+}
+p {
+    color: white;
+}
